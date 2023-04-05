@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sneaker Shop/1.0.0": {
+        "runtime": {
+          "Sneaker Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sneaker Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

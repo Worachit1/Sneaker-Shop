@@ -1,0 +1,20 @@
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\bin\Debug\net6.0-windows\Sneaker Shop.exe
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\bin\Debug\net6.0-windows\Sneaker Shop.deps.json
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\bin\Debug\net6.0-windows\Sneaker Shop.runtimeconfig.json
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\bin\Debug\net6.0-windows\Sneaker Shop.dll
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\bin\Debug\net6.0-windows\Sneaker Shop.pdb
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.csproj.AssemblyReference.cache
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker_Shop.Form1.resources
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker_Shop.Login.resources
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker_Shop.Properties.Resources.resources
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.csproj.GenerateResource.cache
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.AssemblyInfoInputs.cache
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.AssemblyInfo.cs
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.csproj.CoreCompileInputs.cache
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.dll
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\refint\Sneaker Shop.dll
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.pdb
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker Shop.genruntimeconfig.cache
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\ref\Sneaker Shop.dll
+D:\KKU วิชาเรียน\IN401105\Sneaker Shop\Sneaker Shop\obj\Debug\net6.0-windows\Sneaker_Shop.Pay.resources

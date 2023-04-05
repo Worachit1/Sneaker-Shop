@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sneaker_Shop.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQkAEAAAAiAAABAAACCAgGACCIwbgCAAiiAHABBAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.Login" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAEEACAkABAAAAGAAAACAAAIAgAAEEAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.Pay" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAECAAABAAACCAAAACAAAYAAAAAGAAAABAAAI=</HashCode>
+      <FileName>Pay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.Member" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAgAQAAIAAAAAAQAAAAEAAAgAAAAICAAAAE=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.product.Product" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAABAAABAAAAAEQAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.product.AJonexOffWhite" Collapsed="true">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>product\AJonexOffWhite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.product.AZPegasus39" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>product\AZPegasus39.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.product.PG3NASA" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>product\PG3NASA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sneaker_Shop.product.WhyNotZ4" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>product\WhyNotZ4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
