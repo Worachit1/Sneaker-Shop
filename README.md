@@ -1,30 +1,43 @@
 ```mermaid
 classDiagram
  direction LR
- class form1{
- -cheakin():void
- -cheaout():void
+ class Form1{
+ -product():void
+ -member():void
+ -pay():void
  -Save():void
- -Clear():void
+ -Open():void
 }
  class Pay{
- -discountcode():void
  -pay():void
- -back():void
+ -Exit():void
  }
- class codepay{
- -couponCode:string
- -minimumPice:double
- +creat(double min):void
- +getCoupon():void
+ class Login{
+ -member.double
+ +getMem():void
  }
- class Buy{
- -totalPice:double
- +Bill(pay double,getmoney Double):void
- +payBill():double
+ class Product{
+ +Bitmap getImage():void
+ +string getName():void
+ +int getPrice():void
   }
-  Pay -- codepay
-  Pay -- Buy
+  class AJonexOffWhite{
+  + AJonexOffWhite():void
+  }
+  class AZPegasus39{
+  + AZPegasus39():void
+  }
+  class PG3NASA{
+  + PG3NASA():void
+  }
+  class WhyNotZ4{
+  + WhyNotZ4():void
+  }
+  Form1 -- Login
+  Product -- AJonexOffWhite
+  Product -- AZPegasus39
+  Product -- PG3NASA
+  Product -- WhyNotZ4
   ```
 
  
